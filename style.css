@@ -1,0 +1,23 @@
+body
+{
+    background-size: cover;
+}
+#top_marking
+{
+    text-align: left;
+}
+#h1
+{
+    display: inline;
+}
+#instruct
+{
+    font-size: 25px;
+    float: right;
+    border: 2px solid blueviolet;
+}
+#play
+{
+    font-size: 30px;
+    border: 3px dashed blue;
+}
